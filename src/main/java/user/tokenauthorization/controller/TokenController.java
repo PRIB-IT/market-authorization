@@ -1,4 +1,4 @@
-package Service.TokenAuthorization.controller;
+package user.tokenauthorization.controller;
 
 
 import org.springframework.web.bind.annotation.GetMapping;
